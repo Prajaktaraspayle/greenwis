@@ -1,0 +1,19 @@
+{
+  "name": "greenwiz_assignment-main",
+  "version": "1.0.0",
+  "description": "program should scan for all links available in the page and traverse them as well.",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cherio": "^1.0.0-rc.2",
+    "combined-stream": "^1.0.8",
+    "debug": "^4.3.4",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prajakta Raspayle",
+  "license": "ISC"
+}
